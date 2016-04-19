@@ -12,6 +12,7 @@ set ignorecase
 set wildmenu wildmode=list:full
 set nocursorline
 set mps+=<:>
+set nowrap
 set encoding=utf-8
 set fileencodings=utf-8,euc-jp,sjis,iso-2022-jp
 set viminfo+=n~/.vim/viminfo
