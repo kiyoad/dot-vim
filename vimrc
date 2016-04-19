@@ -14,6 +14,7 @@ set nocursorline
 set mps+=<:>
 set encoding=utf-8
 set fileencodings=utf-8,euc-jp,sjis,iso-2022-jp
+set viminfo+=n~/.vim/viminfo
 highlight StatusLine ctermfg=black ctermbg=grey
 highlight CursorLine ctermfg=none ctermbg=darkgrey cterm=none
 highlight MatchParen ctermfg=none ctermbg=darkgrey
